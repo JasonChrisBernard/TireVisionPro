@@ -1,0 +1,19 @@
+.report-container {
+    text-align: center;
+    padding: 20px;
+    background: #292929;
+  }
+
+  
+  
+  .report-text {
+    font-size: 18px;
+    font-weight: 500;
+    color: #2e7d32;
+  }
+  
+  .no-report {
+    color: #ffffff;
+    font-style: italic;
+  }
+

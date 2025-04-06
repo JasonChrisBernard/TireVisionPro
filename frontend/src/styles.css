@@ -1,0 +1,57 @@
+/* Global Styles */
+body {
+  background-color: #373737;
+  margin: 0;
+  padding: 0;
+  color: #333;
+}
+
+h1, h2 {
+  color: #ededed;
+}
+
+/* Heading */
+h1 {
+  font-size: 3rem; /* Adjust size */
+  color: #ffffff; /* White text */
+  font-weight: 700; /* Bold weight */
+  background-color: #323232; /* Dark navy background */
+  padding: 15px; /* Add padding */
+  border-radius: 8px; /* Rounded corners */
+  
+ 
+ 
+  
+}
+
+/* App Container */
+.app-container {
+  max-width: 900px;
+  margin: 30px auto;
+  padding: 30px;
+  background: rgb(184, 183, 183);
+  box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.15);
+  border-radius: 12px;
+  
+}
+
+h1 {
+  font-family: "Roboto";
+  font-weight: 700; 
+  
+  font-size: 2rem;
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.section {
+  margin-top: 20px;
+  padding: 15px;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  background: #f9f9f9;
+}
+
+h3{
+  color: rgb(185, 185, 185);
+}
